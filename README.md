@@ -17,7 +17,7 @@
 
 On this project, I'm practicing, reflecting and developing competencies about *leadership - team management*. 
 
-I want know how to build a workflow around our platform - by learning "how to Git", using the right tools and find the best way to communicate by practicing.
+I want know how to build the perfect workflow for our platform - by learning "how to Git", using the right tools and find the best way to communicate by practicing.
 
 > *This adventure is important for us, we're still looking for help on any aspect of our project.   Please check out our [website](https://toonsquad.co/) or our [Discord](https://discord.gg/3yXQzC256m) to join the crew!*
 
