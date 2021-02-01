@@ -15,10 +15,11 @@
 
 🐸 Currently working on [@toonsquadco](https://toonsquad.co/) - a convenient place to track & learn more about the western animation industry. 
 
-On this project, I'm practicing and developing competencies about *team management/leadership*. 
-I'm interested to discover/learn more/share/work and collaborate... That's why I'm here - learning "how to Git" and to build a workflow around our platform.
+On this project, I'm practicing, reflecting and developing competencies about *leadership - team management*. 
 
-> *This adventure is important for me, and the crew, we're still looking for help on any aspect of our project.   Please check out our [website](https://toonsquad.co/) or our [Discord](https://discord.gg/3yXQzC256m) to join the crew!*
+I want know how to build a workflow around our platform - by learning "how to Git", using the right tools and find the best way to communicate by practicing.
+
+> *This adventure is important for us, we're still looking for help on any aspect of our project.   Please check out our [website](https://toonsquad.co/) or our [Discord](https://discord.gg/3yXQzC256m) to join the crew!*
 
 #### if you have any questions!
 - Hit me up on Twitter - [@vincentimes](https://twitter.com/VincenTimes "my own Twitter")
