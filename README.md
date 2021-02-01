@@ -1,6 +1,6 @@
 ### hello.
 
-👨🏻‍🚀 My name is Vincent, but you can call me "Vince" • pronouns: he/him.
+👨🏻‍🚀 My name is Vincent, but you can call me "Vince" • 🇫🇷 • pronouns: he/him.
 
 #### me, myself and i
 
