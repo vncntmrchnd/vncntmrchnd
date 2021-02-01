@@ -11,9 +11,9 @@
 
 #### more info coming up
 
-📹 I'm creating content [on YouTube](https://www.youtube.com/channel/UCfJazBeaJ6zrUw12PknKHVQ "my own YouTube channel"), where I share some of my passions - like *animation & music*.
+📹 Still creating content [on YouTube](https://www.youtube.com/channel/UCfJazBeaJ6zrUw12PknKHVQ "my own YouTube channel"), where I share some of my passions - like *animation & music*.
 
-🐸 Currently working on [@toonsquadco](https://toonsquad.co/) - a convenient place to track & learn more about the western animation industry. 
+🐸 Currently working on [@toonsquadco](https://toonsquad.co/) - a convenient place to track & learn more about the western animation industry:
 
 On this project, I'm practicing, reflecting and developing competencies about *leadership - team management*. 
 
